@@ -135,3 +135,69 @@ We use Microsoft SharePoint for enterprise collaboration.
 - Value: Simplified monitoring and communication  
 
 ---
+
+## 📅 Day 3 – Git & Development Tools
+
+### 🔹 Git & Version Control
+Using Git for tracking code changes and collaboration.
+
+#### Key Concepts:
+- Staging (`git add`)
+- Commit (`git commit`)
+- Push (`git push`)
+- Pull (`git pull`)
+- Merge (combine changes)
+
+---
+
+### 🔹 Branching Strategy
+- `main` → production  
+- `dev` → development  
+- `feature/*` → feature-specific work  
+
+Flow:
+feature → dev → main
+
+---
+
+### 🔹 Why Git is Important
+- Tracks changes in code
+- Enables team collaboration
+- Prevents conflicts using branches
+
+---
+
+### 🔹 GitHub Repository
+- Created repository: `warmup-first-repo`
+- Added README.md
+- Practiced commits and push
+
+---
+
+### 🔹 Release Management (Basic Understanding)
+- Release = making code live
+- Process:
+  1. Development
+  2. Testing (QA)
+  3. Bug fixes
+  4. Deployment
+
+---
+
+### 🔹 Dev Tools Setup
+Installed and verified:
+
+- Git  
+- VS Code  
+- Postman
+- Node.js & NPM
+
+---
+
+## ✅ Summary
+This warmup helped me understand:
+- Company ecosystem and products  
+- Real-world use cases  
+- Basics of SharePoint  
+- Git and version control  
+- Development tools setup  
